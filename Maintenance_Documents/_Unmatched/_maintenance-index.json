@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-29T09:56:58.248Z",
+  "records": [
+    {
+      "path": "Maintenance_Documents/_Unmatched/20261029_165644_594_bcfd76d35b_bản_vẽ_lưỡi_dao_máy_dập_(1).pdf",
+      "sha": "f7c995564e601111deb205736e5c47c5c30862b9",
+      "equipmentCode": "CHUA_GAN_MA",
+      "originalName": "bản vẽ lưỡi dao máy dập (1).pdf",
+      "reportCode": "bản vẽ lưỡi dao máy dập (1)",
+      "mimeType": "application/pdf",
+      "size": 1188569,
+      "uploadedAt": "2026-10-29T09:56:44.594Z",
+      "maintenance": "No need",
+      "actual": "",
+      "nextDate": "",
+      "maintenanceStatus": "Chưa ghép mã - cần xác nhận",
+      "mappingStatus": "UNMATCHED",
+      "requestedEquipmentCode": "CHUA_GAN_MA"
+    }
+  ]
+}
