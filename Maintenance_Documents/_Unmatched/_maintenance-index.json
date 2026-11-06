@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T08:57:31.106Z",
+  "updatedAt": "2026-11-06T08:57:40.605Z",
   "records": [
     {
       "path": "Maintenance_Documents/_Unmatched/20261029_165644_594_bcfd76d35b_bản_vẽ_lưỡi_dao_máy_dập_(1).pdf",
@@ -891,6 +891,22 @@
       "mimeType": "application/pdf",
       "size": 55089,
       "uploadedAt": "2026-11-06T08:57:18.735Z",
+      "maintenance": "Need",
+      "actual": "",
+      "nextDate": "",
+      "maintenanceStatus": "Chưa ghép mã - cần xác nhận",
+      "mappingStatus": "UNMATCHED",
+      "requestedEquipmentCode": "CHUA_GAN_MA"
+    },
+    {
+      "path": "Maintenance_Documents/_Unmatched/20261106_155730_990_31d6d49e94_PIEBD-334.pdf",
+      "sha": "31e5a5edb186f32c7cfb39b13e5a75fdcef7e0b7",
+      "equipmentCode": "CHUA_GAN_MA",
+      "originalName": "PIEBD-334.pdf",
+      "reportCode": "PIEBD-334",
+      "mimeType": "application/pdf",
+      "size": 51359,
+      "uploadedAt": "2026-11-06T08:57:30.990Z",
       "maintenance": "Need",
       "actual": "",
       "nextDate": "",
