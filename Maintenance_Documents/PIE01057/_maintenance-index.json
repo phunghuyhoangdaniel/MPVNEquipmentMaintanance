@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T06:48:46.461Z",
+  "updatedAt": "2026-11-06T07:18:56.851Z",
   "records": [
     {
       "path": "Maintenance_Documents/PIE01057/20261106_134801_211_6725770a18_PIEBD-259.pdf",
@@ -15,6 +15,22 @@
       "actual": "2026-09-26",
       "nextDate": "2026-12-25",
       "maintenanceStatus": "Chưa đến hạn",
+      "mappingStatus": "MATCHED",
+      "requestedEquipmentCode": "PIE01057"
+    },
+    {
+      "path": "Maintenance_Documents/PIE01057/20261106_141831_828_3147cf8351_PIEBD-259.pdf",
+      "sha": "b035f14df3169c017210fcd9c82ff51f47a42faa",
+      "equipmentCode": "PIE01057",
+      "originalName": "PIEBD-259.pdf",
+      "reportCode": "PIEBD-259",
+      "mimeType": "application/pdf",
+      "size": 58759,
+      "uploadedAt": "2026-11-06T07:18:31.828Z",
+      "maintenance": "Need",
+      "actual": "2026-09-26",
+      "nextDate": "2026-12-25",
+      "maintenanceStatus": "",
       "mappingStatus": "MATCHED",
       "requestedEquipmentCode": "PIE01057"
     }
