@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-06T06:35:21.565Z",
+  "records": [
+    {
+      "path": "Maintenance_Documents/PIE01942/20261106_133436_853_e364ef9565_PIEBD-258.pdf",
+      "sha": "2d395bd19db36d61973fc2eab0bd472ccdde033c",
+      "equipmentCode": "PIE01942",
+      "originalName": "PIEBD-258.pdf",
+      "reportCode": "PIEBD-258",
+      "mimeType": "application/pdf",
+      "size": 51359,
+      "uploadedAt": "2026-11-06T06:34:36.853Z",
+      "maintenance": "Need",
+      "actual": "2026-10-24",
+      "nextDate": "2027-01-22",
+      "maintenanceStatus": "Chưa đến hạn",
+      "mappingStatus": "MATCHED",
+      "requestedEquipmentCode": "PIE01942"
+    }
+  ]
+}
