@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T07:41:20.367Z",
+  "updatedAt": "2026-11-06T07:49:59.664Z",
   "records": [
     {
       "path": "Maintenance_Documents/PIE01032/20261106_144054_711_db71f030dd_PIEBD-271.pdf",
@@ -14,6 +14,22 @@
       "maintenance": "Need",
       "actual": "2026-03-02",
       "nextDate": "2026-05-31",
+      "maintenanceStatus": "",
+      "mappingStatus": "MATCHED",
+      "requestedEquipmentCode": "PIE01032"
+    },
+    {
+      "path": "Maintenance_Documents/PIE01032/20261106_144934_672_7ad01a9ce1_PIEBD-366.pdf",
+      "sha": "fa4bebffe5be27d8039c31d0af9d3f652fd52a8e",
+      "equipmentCode": "PIE01032",
+      "originalName": "PIEBD-366.pdf",
+      "reportCode": "PIEBD-366",
+      "mimeType": "application/pdf",
+      "size": 54491,
+      "uploadedAt": "2026-11-06T07:49:34.672Z",
+      "maintenance": "Need",
+      "actual": "2026-06-08",
+      "nextDate": "2026-09-06",
       "maintenanceStatus": "",
       "mappingStatus": "MATCHED",
       "requestedEquipmentCode": "PIE01032"
