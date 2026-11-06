@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-06T08:33:01.755Z",
+  "records": [
+    {
+      "path": "Maintenance_Documents/PIE03994/20261106_153236_137_0a3a602ab6_PIEBD-521.pdf",
+      "sha": "8b38ec7f5be96d24fd09b3d9e717f041adfe88d7",
+      "equipmentCode": "PIE03994",
+      "originalName": "PIEBD-521.pdf",
+      "reportCode": "PIEBD-521",
+      "mimeType": "application/pdf",
+      "size": 87081,
+      "uploadedAt": "2026-11-06T08:32:36.137Z",
+      "maintenance": "Need",
+      "actual": "2026-10-24",
+      "nextDate": "2027-01-22",
+      "maintenanceStatus": "",
+      "mappingStatus": "MATCHED",
+      "requestedEquipmentCode": "PIE03994"
+    }
+  ]
+}
